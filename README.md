@@ -46,8 +46,8 @@ In order to setup, follow the steps below:
 ```
 cd web-app
 npm install .
+cp -r ../data src/.
 npm run build
-cp -r ../data build/.
 ```
 
 And then the static directory should be available in `web-app/build/`. You can host this however you like. If you want to host locally, you can use:
