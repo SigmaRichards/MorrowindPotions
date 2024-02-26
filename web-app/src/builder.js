@@ -6,6 +6,9 @@ import Select from '@mui/material/Select';
 
 let tree_data = require("./data/potion_effect_tree.json");
 let recipes = require("./data/potion_data.json");
+const link0 = "https:/"
+const link1 = "/github.com/SigmaRichards/MorrowindPotions"
+const github_link = link0 + link1
 
 function getKeys(data){
   return Object.keys(data).sort();
@@ -116,7 +119,10 @@ function MultiEffectHandler(){
 function BuilderPage() {
   return (
     <body>
-      <h1>Potion Creator</h1>
+      <h1>Sigma's Shitty Potion Builder</h1>
+        <p>
+	  A shitty potion builder for Morrowind Alchemy. Data about restocking items and vendors was obtained from UESP. If you want to see the source-code, or just want the raw data, go to the github available <a href={github_link}>here</a>.
+	</p>
       <div>{MultiEffectHandler()}</div>
     </body>
   );
