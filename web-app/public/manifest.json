@@ -1,0 +1,9 @@
+{
+  "short_name": "Potion Builder",
+  "name": "Sigma's Shitty Potion Builder",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

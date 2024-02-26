@@ -1,0 +1,2788 @@
+{
+    "Marshmerrow": [
+        {
+            "Andil": {
+                "num": 10,
+                "location": "Tel Vos, Services Tower"
+            }
+        },
+        {
+            "Chaplain Ogrul": {
+                "num": 10,
+                "location": "Gnisis, Fort Darius"
+            }
+        },
+        {
+            "Danoso Andrano": {
+                "num": 10,
+                "location": "Ald'ruhn, Temple"
+            }
+        },
+        {
+            "Dralval Andrano": {
+                "num": 5,
+                "location": "Balmora, Temple"
+            }
+        },
+        {
+            "Felara Andrethi": {
+                "num": 10,
+                "location": "Tel Aruhn, Tower Living Quarters"
+            }
+        },
+        {
+            "J'Rasha": {
+                "num": 5,
+                "location": "Vivec, Foreign Quarter, J'Rasha: Healer"
+            }
+        },
+        {
+            "Milar Maryon": {
+                "num": 10,
+                "location": "Tel Vos, Services Tower"
+            }
+        },
+        {
+            "Scelian Plebo": {
+                "num": 10,
+                "location": "Wolverine Hall, Imperial Shrine"
+            }
+        },
+        {
+            "Ygfa": {
+                "num": 5,
+                "location": "Pelagiad, Fort Pelagiad"
+            }
+        }
+    ],
+    "Ash_Salts": [
+        {
+            "Eldrilu Dalen": {
+                "num": 5,
+                "location": "Vos, Vos Chapel"
+            }
+        },
+        {
+            "Folvys Andalor": {
+                "num": 5,
+                "location": "Ald'ruhn Temple"
+            }
+        },
+        {
+            "Relms Gilvilo": {
+                "num": 5,
+                "location": "Vivec, Redoran Temple Shrine"
+            }
+        },
+        {
+            "Scelian Plebo": {
+                "num": 5,
+                "location": "Wolverine Hall, Imperial Shrine"
+            }
+        },
+        {
+            "Somutis Vunnis": {
+                "num": 5,
+                "location": "Moonmoth Legion Fort, Interior"
+            }
+        },
+        {
+            "Telis Salvani": {
+                "num": 5,
+                "location": "Balmora, Temple"
+            }
+        },
+        {
+            "Tivam Sadri": {
+                "num": 5,
+                "location": "Holamayan Monastery"
+            }
+        }
+    ],
+    "Ghoul_Heart": [
+        {
+            "Anis Seloth": {
+                "num": 2,
+                "location": "Sadrith Mora, Anis Seloth: Alchemist"
+            }
+        },
+        {
+            "Brarayni Sarys": {
+                "num": 1,
+                "location": "Tel Aruhn, Tower Entry"
+            }
+        },
+        {
+            "Craetia Jullalian": {
+                "num": 1,
+                "location": "Vivec Foreign Quarter, Guild of Mages"
+            }
+        },
+        {
+            "Lloros Sarano": {
+                "num": 2,
+                "location": "Ald'ruhn, Temple"
+            }
+        },
+        {
+            "Mehra Drora": {
+                "num": 1,
+                "location": "Gnisis, Temple"
+            }
+        },
+        {
+            "Relms Gilvilo": {
+                "num": 1,
+                "location": "Vivec, Redoran Temple Shrine"
+            }
+        },
+        {
+            "Tivam Sadri": {
+                "num": 1,
+                "location": "Holamayan Monastery"
+            }
+        }
+    ],
+    "Ruby": [
+        {
+            "Anis Seloth": {
+                "num": 4,
+                "location": "Sadrith Mora, Anis Seloth: Alchemist"
+            }
+        },
+        {
+            "Craetia Jullalian": {
+                "num": 2,
+                "location": "Vivec Foreign Quarter, Guild of Mages"
+            }
+        },
+        {
+            "Daynali Dren": {
+                "num": 4,
+                "location": "Tel Mora, Lower Tower"
+            }
+        },
+        {
+            "Gils Drelas": {
+                "num": 3,
+                "location": "Tel Branora, Upper Tower: Therana's Chamber"
+            }
+        },
+        {
+            "Nalcarya of White Haven": {
+                "num": 3,
+                "location": "Balmora, Nalcarya of White Haven: Fine Alchemist"
+            }
+        }
+    ],
+    "Fire_Petal": [
+        {
+            "Cocistian Quaspus": {
+                "num": 5,
+                "location": "Buckmoth Legion Fort"
+            }
+        },
+        {
+            "Galuro Belan": {
+                "num": 5,
+                "location": "Vivec, Telvanni Apothecary"
+            }
+        },
+        {
+            "Irna Maryon": {
+                "num": 10,
+                "location": "Tel Aruhn, Tower Entry"
+            }
+        },
+        {
+            "Mehra Drora": {
+                "num": 5,
+                "location": "Gnisis, Temple"
+            }
+        },
+        {
+            "Pierlette Rostorard": {
+                "num": 5,
+                "location": "Sadrith Mora, Pierlette Rostorard: Apothecary"
+            }
+        },
+        {
+            "Somutis Vunnis": {
+                "num": 5,
+                "location": "Moonmoth Legion Fort, Interior"
+            }
+        }
+    ],
+    "Heather": [
+        {
+            "Ajira": {
+                "num": 5,
+                "location": "Balmora, Guild of Mages"
+            }
+        },
+        {
+            "Anarenen": {
+                "num": 10,
+                "location": "Ald'ruhn, Guild of Mages"
+            }
+        },
+        {
+            "Andilu Drothan": {
+                "num": 5,
+                "location": "Vivec Foreign Quarter, Andilu Drothan: Alchemist"
+            }
+        },
+        {
+            "Anis Seloth": {
+                "num": 10,
+                "location": "Sadrith Mora, Anis Seloth: Alchemist"
+            }
+        },
+        {
+            "Bildren Areleth": {
+                "num": 10,
+                "location": "Tel Aruhn, Bildren Areleth: Apothecary"
+            }
+        },
+        {
+            "Brarayni Sarys": {
+                "num": 10,
+                "location": "Tel Aruhn, Tower Entry"
+            }
+        },
+        {
+            "Peragon": {
+                "num": 5,
+                "location": "Moonmoth Legion Fort, Interior"
+            }
+        }
+    ],
+    "Bloat": [
+        {
+            "Anarenen": {
+                "num": 5,
+                "location": "Ald'ruhn, Guild of Mages"
+            }
+        },
+        {
+            "Anis Seloth": {
+                "num": 10,
+                "location": "Sadrith Mora, Anis Seloth: Alchemist"
+            }
+        },
+        {
+            "Aunius Autrus": {
+                "num": 5,
+                "location": "Wolverine Hall, Imperial Shrine"
+            }
+        },
+        {
+            "Craetia Jullalian": {
+                "num": 5,
+                "location": "Vivec Foreign Quarter, Guild of Mages"
+            }
+        },
+        {
+            "Daynali Dren": {
+                "num": 10,
+                "location": "Tel Mora, Lower Tower"
+            }
+        },
+        {
+            "Mehra Drora": {
+                "num": 10,
+                "location": "Gnisis, Temple"
+            }
+        },
+        {
+            "Nalcarya of White Haven": {
+                "num": 10,
+                "location": "Balmora, Nalcarya of White Haven: Fine Alchemist"
+            }
+        }
+    ],
+    "Netch_Leather": [
+        {
+            "Arnand Liric": {
+                "num": 5,
+                "location": "Buckmoth Legion Fort, Interior"
+            }
+        },
+        {
+            "Aunius Autrus": {
+                "num": 5,
+                "location": "Wolverine Hall, Imperial Shrine"
+            }
+        },
+        {
+            "Eldrilu Dalen": {
+                "num": 10,
+                "location": "Vos, Vos Chapel"
+            }
+        },
+        {
+            "Mehra Drora": {
+                "num": 10,
+                "location": "Gnisis, Temple"
+            }
+        },
+        {
+            "Telis Salvani": {
+                "num": 5,
+                "location": "Balmora, Temple"
+            }
+        },
+        {
+            "Threvul Serethi": {
+                "num": 5,
+                "location": "Sadrith Mora, Thervul\u00a0[sic] Serethi: Healer"
+            }
+        }
+    ],
+    "Hound_Meat": [
+        {
+            "Ajira": {
+                "num": 5,
+                "location": "Balmora, Guild of Mages"
+            }
+        },
+        {
+            "Arnand Liric": {
+                "num": 10,
+                "location": "Buckmoth Legion Fort, Interior"
+            }
+        },
+        {
+            "Cienne Sintieve": {
+                "num": 10,
+                "location": "Ald'ruhn, Cienne Sintieve: Alchemist"
+            }
+        },
+        {
+            "Daynali Dren": {
+                "num": 10,
+                "location": "Tel Mora, Lower Tower"
+            }
+        },
+        {
+            "Ganalyn Saram": {
+                "num": 5,
+                "location": "Vivec, Hlaalu Alchemist"
+            }
+        },
+        {
+            "Threvul Serethi": {
+                "num": 10,
+                "location": "Sadrith Mora, Thervul\u00a0[sic] Serethi: Healer"
+            }
+        },
+        {
+            "Tusamircil": {
+                "num": 10,
+                "location": "Wolverine Hall, Mages Guild"
+            }
+        },
+        {
+            "Ulumpha gra-Sharob": {
+                "num": 10,
+                "location": "Gnisis, Fort Darius"
+            }
+        },
+        {
+            "Zanmulk Sammalamus": {
+                "num": 10,
+                "location": "Gnisis, Temple"
+            }
+        }
+    ],
+    "Roobrush": [
+        {
+            "Danoso Andrano": {
+                "num": 10,
+                "location": "Ald'ruhn, Temple"
+            }
+        },
+        {
+            "Irna Maryon": {
+                "num": 5,
+                "location": "Tel Aruhn, Tower Entry"
+            }
+        },
+        {
+            "Pierlette Rostorard": {
+                "num": 5,
+                "location": "Sadrith Mora, Pierlette Rostorard: Apothecary"
+            }
+        },
+        {
+            "Relms Gilvilo": {
+                "num": 5,
+                "location": "Vivec, Redoran Temple Shrine"
+            }
+        },
+        {
+            "Somutis Vunnis": {
+                "num": 5,
+                "location": "Moonmoth Legion Fort, Interior"
+            }
+        }
+    ],
+    "Scrap_Metal": [
+        {
+            "Andilu Drothan": {
+                "num": 4,
+                "location": "Vivec Foreign Quarter, Andilu Drothan: Alchemist"
+            }
+        },
+        {
+            "Anis Seloth": {
+                "num": 5,
+                "location": "Sadrith Mora, Anis Seloth: Alchemist"
+            }
+        },
+        {
+            "Cienne Sintieve": {
+                "num": 5,
+                "location": "Ald'ruhn, Cienne Sintieve: Alchemist"
+            }
+        },
+        {
+            "Daynali Dren": {
+                "num": 5,
+                "location": "Tel Mora, Lower Tower"
+            }
+        },
+        {
+            "Gils Drelas": {
+                "num": 5,
+                "location": "Tel Branora, Upper Tower: Therana's Chamber"
+            }
+        },
+        {
+            "Nalcarya of White Haven": {
+                "num": 10,
+                "location": "Balmora, Nalcarya of White Haven: Fine Alchemist"
+            }
+        }
+    ],
+    "Luminous_Russula": [
+        {
+            "Anis Seloth": {
+                "num": 10,
+                "location": "Sadrith Mora, Anis Seloth: Alchemist"
+            }
+        },
+        {
+            "Ernand Thierry": {
+                "num": 5,
+                "location": "Caldera, Guild of Mages"
+            }
+        },
+        {
+            "Jolda": {
+                "num": 10,
+                "location": "Tel Mora, Jolda: Apothecary"
+            }
+        },
+        {
+            "Peragon": {
+                "num": 5,
+                "location": "Moonmoth Legion Fort, Interior"
+            }
+        }
+    ],
+    "Kagouti_Hide": [
+        {
+            "Bildren Areleth": {
+                "num": 5,
+                "location": "Tel Aruhn, Bildren Areleth: Apothecary"
+            }
+        },
+        {
+            "Dralval Andrano": {
+                "num": 5,
+                "location": "Balmora, Temple"
+            }
+        },
+        {
+            "Galuro Belan": {
+                "num": 5,
+                "location": "Vivec, Telvanni Apothecary"
+            }
+        },
+        {
+            "Guls Llervu": {
+                "num": 5,
+                "location": "Ald'ruhn, Guls Llervu's House"
+            }
+        },
+        {
+            "Pierlette Rostorard": {
+                "num": 10,
+                "location": "Sadrith Mora, Pierlette Rostorard: Apothecary"
+            }
+        },
+        {
+            "Salen Ravel": {
+                "num": 10,
+                "location": "Maar Gan, Shrine"
+            }
+        }
+    ],
+    "Daedra_Skin": [
+        {
+            "Anis Seloth": {
+                "num": 2,
+                "location": "Sadrith Mora, Anis Seloth: Alchemist"
+            }
+        },
+        {
+            "Brarayni Sarys": {
+                "num": 2,
+                "location": "Tel Aruhn, Tower Entry"
+            }
+        },
+        {
+            "Garas Seloth": {
+                "num": 2,
+                "location": "Vivec, Telvanni Alchemist"
+            }
+        },
+        {
+            "Nalcarya of White Haven": {
+                "num": 1,
+                "location": "Balmora, Nalcarya of White Haven: Fine Alchemist"
+            }
+        }
+    ],
+    "Corkbulb_Root": [
+        {
+            "Arrille": {
+                "num": 5,
+                "location": "Seyda Neen, Arrille's Tradehouse"
+            }
+        },
+        {
+            "Craetia Jullalian": {
+                "num": 5,
+                "location": "Vivec Foreign Quarter, Guild of Mages"
+            }
+        },
+        {
+            "Eldrilu Dalen": {
+                "num": 10,
+                "location": "Vos, Vos Chapel"
+            }
+        },
+        {
+            "Ernand Thierry": {
+                "num": 5,
+                "location": "Caldera, Guild of Mages"
+            }
+        },
+        {
+            "Ganalyn Saram": {
+                "num": 5,
+                "location": "Vivec, Hlaalu Alchemist"
+            }
+        },
+        {
+            "Guls Llervu": {
+                "num": 5,
+                "location": "Ald'ruhn, Guls Llervu's House"
+            }
+        },
+        {
+            "Llarara Omayn": {
+                "num": 5,
+                "location": "Balmora, Temple"
+            }
+        },
+        {
+            "Sedris Omalen": {
+                "num": 10,
+                "location": "Maar Gan, Outpost"
+            }
+        },
+        {
+            "Tivam Sadri": {
+                "num": 5,
+                "location": "Holamayan Monastery"
+            }
+        },
+        {
+            "Tusamircil": {
+                "num": 10,
+                "location": "Wolverine Hall, Mages Guild"
+            }
+        }
+    ],
+    "Void_Salts": [
+        {
+            "Cienne Sintieve": {
+                "num": 5,
+                "location": "Ald'ruhn, Cienne Sintieve: Alchemist"
+            }
+        },
+        {
+            "Garas Seloth": {
+                "num": 2,
+                "location": "Vivec, Telvanni Alchemist"
+            }
+        },
+        {
+            "Gils Drelas": {
+                "num": 2,
+                "location": "Tel Branora, Upper Tower: Therana's Chamber"
+            }
+        },
+        {
+            "Jolda": {
+                "num": 5,
+                "location": "Tel Mora, Jolda: Apothecary"
+            }
+        },
+        {
+            "Nalcarya of White Haven": {
+                "num": 7,
+                "location": "Balmora, Nalcarya of White Haven: Fine Alchemist"
+            }
+        }
+    ],
+    "Hypha_Facia": [
+        {
+            "Anis Seloth": {
+                "num": 10,
+                "location": "Sadrith Mora, Anis Seloth: Alchemist"
+            }
+        },
+        {
+            "Aurane Frernis": {
+                "num": 5,
+                "location": "Vivec, Foreign Quarter, Aurane Frernis: Apothecary"
+            }
+        },
+        {
+            "Danoso Andrano": {
+                "num": 10,
+                "location": "Ald'ruhn, Temple"
+            }
+        },
+        {
+            "Dralval Andrano": {
+                "num": 5,
+                "location": "Balmora, Temple"
+            }
+        },
+        {
+            "Jolda": {
+                "num": 5,
+                "location": "Tel Mora, Jolda: Apothecary"
+            }
+        }
+    ],
+    "Chokeweed": [
+        {
+            "Felara Andrethi": {
+                "num": 4,
+                "location": "Tel Aruhn, Tower Living Quarters"
+            }
+        },
+        {
+            "J'Rasha": {
+                "num": 5,
+                "location": "Vivec, Foreign Quarter, J'Rasha: Healer"
+            }
+        },
+        {
+            "Scelian Plebo": {
+                "num": 10,
+                "location": "Wolverine Hall, Imperial Shrine"
+            }
+        },
+        {
+            "Telis Salvani": {
+                "num": 5,
+                "location": "Balmora, Temple"
+            }
+        },
+        {
+            "Vaval Selas": {
+                "num": 5,
+                "location": "Vivec, St. Olms Temple"
+            }
+        },
+        {
+            "Ygfa": {
+                "num": 5,
+                "location": "Pelagiad, Fort Pelagiad"
+            }
+        }
+    ],
+    "Bonemeal": [
+        {
+            "Anarenen": {
+                "num": 5,
+                "location": "Ald'ruhn, Guild of Mages"
+            }
+        },
+        {
+            "Anis Seloth": {
+                "num": 10,
+                "location": "Sadrith Mora, Anis Seloth: Alchemist"
+            }
+        },
+        {
+            "Garas Seloth": {
+                "num": 5,
+                "location": "Vivec, Telvanni Alchemist"
+            }
+        },
+        {
+            "Milar Maryon": {
+                "num": 5,
+                "location": "Tel Vos, Services Tower"
+            }
+        },
+        {
+            "Scelian Plebo": {
+                "num": 5,
+                "location": "Wolverine Hall, Imperial Shrine"
+            }
+        },
+        {
+            "Ulumpha gra-Sharob": {
+                "num": 5,
+                "location": "Gnisis, Fort Darius"
+            }
+        }
+    ],
+    "Resin": [
+        {
+            "Aurane Frernis": {
+                "num": 5,
+                "location": "Vivec, Foreign Quarter, Aurane Frernis: Apothecary"
+            }
+        },
+        {
+            "Bildren Areleth": {
+                "num": 5,
+                "location": "Tel Aruhn, Bildren Areleth: Apothecary"
+            }
+        },
+        {
+            "Dulian": {
+                "num": 5,
+                "location": "Buckmoth Legion Fort, Interior"
+            }
+        },
+        {
+            "Guls Llervu": {
+                "num": 5,
+                "location": "Ald'ruhn, Guls Llervu's House"
+            }
+        },
+        {
+            "Jolda": {
+                "num": 10,
+                "location": "Tel Mora, Jolda: Apothecary"
+            }
+        },
+        {
+            "Llathyno Hlaalu": {
+                "num": 5,
+                "location": "Balmora, Temple"
+            }
+        },
+        {
+            "Pierlette Rostorard": {
+                "num": 10,
+                "location": "Sadrith Mora, Pierlette Rostorard: Apothecary"
+            }
+        }
+    ],
+    "Racer_Plumes": [
+        {
+            "Brarayni Sarys": {
+                "num": 10,
+                "location": "Tel Aruhn, Tower Entry"
+            }
+        },
+        {
+            "Cienne Sintieve": {
+                "num": 5,
+                "location": "Ald'ruhn, Cienne Sintieve: Alchemist"
+            }
+        },
+        {
+            "Craetia Jullalian": {
+                "num": 5,
+                "location": "Vivec Foreign Quarter, Guild of Mages"
+            }
+        },
+        {
+            "Daynali Dren": {
+                "num": 10,
+                "location": "Tel Mora, Lower Tower"
+            }
+        },
+        {
+            "Garas Seloth": {
+                "num": 5,
+                "location": "Vivec, Telvanni Alchemist"
+            }
+        },
+        {
+            "Nalcarya of White Haven": {
+                "num": 10,
+                "location": "Balmora, Nalcarya of White Haven: Fine Alchemist"
+            }
+        },
+        {
+            "Tusamircil": {
+                "num": 10,
+                "location": "Wolverine Hall, Mages Guild"
+            }
+        }
+    ],
+    "Corprus_Weepings": [
+        {
+            "Arnand Liric": {
+                "num": 5,
+                "location": "Buckmoth Legion Fort, Interior"
+            }
+        },
+        {
+            "Aurane Frernis": {
+                "num": 3,
+                "location": "Vivec, Foreign Quarter, Aurane Frernis: Apothecary"
+            }
+        },
+        {
+            "Folvys Andalor": {
+                "num": 5,
+                "location": "Ald'ruhn Temple"
+            }
+        },
+        {
+            "Scelian Plebo": {
+                "num": 5,
+                "location": "Wolverine Hall, Imperial Shrine"
+            }
+        },
+        {
+            "Threvul Serethi": {
+                "num": 5,
+                "location": "Sadrith Mora, Thervul\u00a0[sic] Serethi: Healer"
+            }
+        }
+    ],
+    "Saltrice": [
+        {
+            "Chaplain Ogrul": {
+                "num": 10,
+                "location": "Gnisis, Fort Darius"
+            }
+        },
+        {
+            "Eldrilu Dalen": {
+                "num": 10,
+                "location": "Vos, Vos Chapel"
+            }
+        },
+        {
+            "Felara Andrethi": {
+                "num": 10,
+                "location": "Tel Aruhn, Tower Living Quarters"
+            }
+        },
+        {
+            "Guls Llervu": {
+                "num": 5,
+                "location": "Ald'ruhn, Guls Llervu's House"
+            }
+        },
+        {
+            "J'Rasha": {
+                "num": 5,
+                "location": "Vivec, Foreign Quarter, J'Rasha: Healer"
+            }
+        },
+        {
+            "Llarara Omayn": {
+                "num": 5,
+                "location": "Balmora, Temple"
+            }
+        },
+        {
+            "Scelian Plebo": {
+                "num": 10,
+                "location": "Wolverine Hall, Imperial Shrine"
+            }
+        },
+        {
+            "Sedris Omalen": {
+                "num": 10,
+                "location": "Maar Gan, Outpost"
+            }
+        },
+        {
+            "Tivam Sadri": {
+                "num": 10,
+                "location": "Holamayan Monastery"
+            }
+        },
+        {
+            "Vaval Selas": {
+                "num": 5,
+                "location": "Vivec, St. Olms Temple"
+            }
+        }
+    ],
+    "Black_Anther": [
+        {
+            "Ajira": {
+                "num": 5,
+                "location": "Balmora, Guild of Mages"
+            }
+        },
+        {
+            "Andil": {
+                "num": 10,
+                "location": "Tel Vos, Services Tower"
+            }
+        },
+        {
+            "Aurane Frernis": {
+                "num": 5,
+                "location": "Vivec, Foreign Quarter, Aurane Frernis: Apothecary"
+            }
+        },
+        {
+            "Brarayni Sarys": {
+                "num": 10,
+                "location": "Tel Aruhn, Tower Entry"
+            }
+        },
+        {
+            "Daynali Dren": {
+                "num": 10,
+                "location": "Tel Mora, Lower Tower"
+            }
+        },
+        {
+            "Nalcarya of White Haven": {
+                "num": 10,
+                "location": "Balmora, Nalcarya of White Haven: Fine Alchemist"
+            }
+        }
+    ],
+    "Violet_Coprinus": [
+        {
+            "Anis Seloth": {
+                "num": 10,
+                "location": "Sadrith Mora, Anis Seloth: Alchemist"
+            }
+        },
+        {
+            "Cienne Sintieve": {
+                "num": 5,
+                "location": "Ald'ruhn, Cienne Sintieve: Alchemist"
+            }
+        },
+        {
+            "Ernand Thierry": {
+                "num": 5,
+                "location": "Caldera, Guild of Mages"
+            }
+        },
+        {
+            "Jolda": {
+                "num": 10,
+                "location": "Tel Mora, Jolda: Apothecary"
+            }
+        }
+    ],
+    "Vampire_Dust": [
+        {
+            "Anarenen": {
+                "num": 1,
+                "location": "Ald'ruhn, Guild of Mages"
+            }
+        },
+        {
+            "Anis Seloth": {
+                "num": 2,
+                "location": "Sadrith Mora, Anis Seloth: Alchemist"
+            }
+        },
+        {
+            "Brarayni Sarys": {
+                "num": 1,
+                "location": "Tel Aruhn, Tower Entry"
+            }
+        },
+        {
+            "Nalcarya of White Haven": {
+                "num": 1,
+                "location": "Balmora, Nalcarya of White Haven: Fine Alchemist"
+            }
+        }
+    ],
+    "Rat_Meat": [
+        {
+            "Chaplain Ogrul": {
+                "num": 10,
+                "location": "Gnisis, Fort Darius"
+            }
+        },
+        {
+            "Cocistian Quaspus": {
+                "num": 10,
+                "location": "Buckmoth Legion Fort"
+            }
+        },
+        {
+            "Felara Andrethi": {
+                "num": 10,
+                "location": "Tel Aruhn, Tower Living Quarters"
+            }
+        },
+        {
+            "Folvys Andalor": {
+                "num": 10,
+                "location": "Ald'ruhn Temple"
+            }
+        },
+        {
+            "Milar Maryon": {
+                "num": 10,
+                "location": "Tel Vos, Services Tower"
+            }
+        },
+        {
+            "Scelian Plebo": {
+                "num": 10,
+                "location": "Wolverine Hall, Imperial Shrine"
+            }
+        },
+        {
+            "Telis Salvani": {
+                "num": 5,
+                "location": "Balmora, Temple"
+            }
+        },
+        {
+            "Vaval Selas": {
+                "num": 5,
+                "location": "Vivec, St. Olms Temple"
+            }
+        },
+        {
+            "Zanmulk Sammalamus": {
+                "num": 10,
+                "location": "Gnisis, Temple"
+            }
+        }
+    ],
+    "Fire_Salts": [
+        {
+            "Anarenen": {
+                "num": 5,
+                "location": "Ald'ruhn, Guild of Mages"
+            }
+        },
+        {
+            "Anis Seloth": {
+                "num": 5,
+                "location": "Sadrith Mora, Anis Seloth: Alchemist"
+            }
+        },
+        {
+            "Craetia Jullalian": {
+                "num": 5,
+                "location": "Vivec Foreign Quarter, Guild of Mages"
+            }
+        },
+        {
+            "Eldrilu Dalen": {
+                "num": 5,
+                "location": "Vos, Vos Chapel"
+            }
+        },
+        {
+            "Gils Drelas": {
+                "num": 4,
+                "location": "Tel Branora, Upper Tower: Therana's Chamber"
+            }
+        },
+        {
+            "Nalcarya of White Haven": {
+                "num": 5,
+                "location": "Balmora, Nalcarya of White Haven: Fine Alchemist"
+            }
+        },
+        {
+            "Relms Gilvilo": {
+                "num": 5,
+                "location": "Vivec, Redoran Temple Shrine"
+            }
+        }
+    ],
+    "Shalk_Resin": [
+        {
+            "Andil": {
+                "num": 5,
+                "location": "Tel Vos, Services Tower"
+            }
+        },
+        {
+            "Arrille": {
+                "num": 5,
+                "location": "Seyda Neen, Arrille's Tradehouse"
+            }
+        },
+        {
+            "Aurane Frernis": {
+                "num": 5,
+                "location": "Vivec, Foreign Quarter, Aurane Frernis: Apothecary"
+            }
+        },
+        {
+            "Llarara Omayn": {
+                "num": 5,
+                "location": "Balmora, Temple"
+            }
+        },
+        {
+            "Lloros Sarano": {
+                "num": 5,
+                "location": "Ald'ruhn, Temple"
+            }
+        },
+        {
+            "Pierlette Rostorard": {
+                "num": 5,
+                "location": "Sadrith Mora, Pierlette Rostorard: Apothecary"
+            }
+        },
+        {
+            "Salen Ravel": {
+                "num": 5,
+                "location": "Maar Gan, Shrine"
+            }
+        }
+    ],
+    "Comberry": [
+        {
+            "Ajira": {
+                "num": 5,
+                "location": "Balmora, Guild of Mages"
+            }
+        },
+        {
+            "Anarenen": {
+                "num": 10,
+                "location": "Ald'ruhn, Guild of Mages"
+            }
+        },
+        {
+            "Andilu Drothan": {
+                "num": 5,
+                "location": "Vivec Foreign Quarter, Andilu Drothan: Alchemist"
+            }
+        },
+        {
+            "Felara Andrethi": {
+                "num": 10,
+                "location": "Tel Aruhn, Tower Living Quarters"
+            }
+        },
+        {
+            "Milar Maryon": {
+                "num": 10,
+                "location": "Tel Vos, Services Tower"
+            }
+        },
+        {
+            "Scelian Plebo": {
+                "num": 10,
+                "location": "Wolverine Hall, Imperial Shrine"
+            }
+        },
+        {
+            "Telis Salvani": {
+                "num": 5,
+                "location": "Balmora, Temple"
+            }
+        }
+    ],
+    "Hackle-Lo_Leaf": [
+        {
+            "Anis Seloth": {
+                "num": 10,
+                "location": "Sadrith Mora, Anis Seloth: Alchemist"
+            }
+        },
+        {
+            "Daynali Dren": {
+                "num": 10,
+                "location": "Tel Mora, Lower Tower"
+            }
+        },
+        {
+            "Garas Seloth": {
+                "num": 5,
+                "location": "Vivec, Telvanni Alchemist"
+            }
+        },
+        {
+            "Gils Drelas": {
+                "num": 10,
+                "location": "Tel Branora, Upper Tower: Therana's Chamber"
+            }
+        },
+        {
+            "Llarara Omayn": {
+                "num": 5,
+                "location": "Balmora, Temple"
+            }
+        },
+        {
+            "Mehra Drora": {
+                "num": 5,
+                "location": "Gnisis, Temple"
+            }
+        },
+        {
+            "Sedris Omalen": {
+                "num": 5,
+                "location": "Maar Gan, Outpost"
+            }
+        },
+        {
+            "Tivam Sadri": {
+                "num": 10,
+                "location": "Holamayan Monastery"
+            }
+        }
+    ],
+    "Ash_Yam": [
+        {
+            "Aunius Autrus": {
+                "num": 10,
+                "location": "Wolverine Hall, Imperial Shrine"
+            }
+        },
+        {
+            "Chaplain Ogrul": {
+                "num": 10,
+                "location": "Gnisis, Fort Darius"
+            }
+        },
+        {
+            "Dulian": {
+                "num": 10,
+                "location": "Buckmoth Legion Fort, Interior"
+            }
+        },
+        {
+            "Eldrilu Dalen": {
+                "num": 5,
+                "location": "Vos, Vos Chapel"
+            }
+        },
+        {
+            "J'Rasha": {
+                "num": 5,
+                "location": "Vivec, Foreign Quarter, J'Rasha: Healer"
+            }
+        },
+        {
+            "Milar Maryon": {
+                "num": 5,
+                "location": "Tel Vos, Services Tower"
+            }
+        },
+        {
+            "Ygfa": {
+                "num": 5,
+                "location": "Pelagiad, Fort Pelagiad"
+            }
+        },
+        {
+            "Zanmulk Sammalamus": {
+                "num": 10,
+                "location": "Gnisis, Temple"
+            }
+        }
+    ],
+    "Ampoule_Pod": [
+        {
+            "Cienne Sintieve": {
+                "num": 10,
+                "location": "Ald'ruhn, Cienne Sintieve: Alchemist"
+            }
+        },
+        {
+            "Craetia Jullalian": {
+                "num": 5,
+                "location": "Vivec Foreign Quarter, Guild of Mages"
+            }
+        },
+        {
+            "Ernand Thierry": {
+                "num": 5,
+                "location": "Caldera, Guild of Mages"
+            }
+        },
+        {
+            "Jolda": {
+                "num": 5,
+                "location": "Tel Mora, Jolda: Apothecary"
+            }
+        },
+        {
+            "Tusamircil": {
+                "num": 5,
+                "location": "Wolverine Hall, Mages Guild"
+            }
+        }
+    ],
+    "Black_Lichen": [
+        {
+            "Dralval Andrano": {
+                "num": 5,
+                "location": "Balmora, Temple"
+            }
+        },
+        {
+            "Irna Maryon": {
+                "num": 3,
+                "location": "Tel Aruhn, Tower Entry"
+            }
+        },
+        {
+            "Jolda": {
+                "num": 5,
+                "location": "Tel Mora, Jolda: Apothecary"
+            }
+        },
+        {
+            "Pierlette Rostorard": {
+                "num": 5,
+                "location": "Sadrith Mora, Pierlette Rostorard: Apothecary"
+            }
+        },
+        {
+            "Relms Gilvilo": {
+                "num": 5,
+                "location": "Vivec, Redoran Temple Shrine"
+            }
+        },
+        {
+            "Sedris Omalen": {
+                "num": 3,
+                "location": "Maar Gan, Outpost"
+            }
+        },
+        {
+            "Somutis Vunnis": {
+                "num": 5,
+                "location": "Moonmoth Legion Fort, Interior"
+            }
+        }
+    ],
+    "Scuttle": [
+        {
+            "Felara Andrethi": {
+                "num": 5,
+                "location": "Tel Aruhn, Tower Living Quarters"
+            }
+        },
+        {
+            "Folvys Andalor": {
+                "num": 10,
+                "location": "Ald'ruhn Temple"
+            }
+        },
+        {
+            "Guls Llervu": {
+                "num": 5,
+                "location": "Ald'ruhn, Guls Llervu's House"
+            }
+        },
+        {
+            "J'Rasha": {
+                "num": 5,
+                "location": "Vivec, Foreign Quarter, J'Rasha: Healer"
+            }
+        },
+        {
+            "Llathyno Hlaalu": {
+                "num": 5,
+                "location": "Balmora, Temple"
+            }
+        },
+        {
+            "Threvul Serethi": {
+                "num": 5,
+                "location": "Sadrith Mora, Thervul\u00a0[sic] Serethi: Healer"
+            }
+        }
+    ],
+    "Horn_Lily_Bulb": [
+        {
+            "Galsa AndranoTR": {
+                "num": 5,
+                "location": "Mournhold Temple: Infirmary"
+            }
+        }
+    ],
+    "Sweetpulp": [
+        {
+            "Galsa AndranoTR": {
+                "num": 5,
+                "location": "Mournhold Temple: Infirmary"
+            }
+        }
+    ],
+    "Ectoplasm": [
+        {
+            "Bildren Areleth": {
+                "num": 5,
+                "location": "Tel Aruhn, Bildren Areleth: Apothecary"
+            }
+        },
+        {
+            "Danoso Andrano": {
+                "num": 5,
+                "location": "Ald'ruhn, Temple"
+            }
+        },
+        {
+            "Galuro Belan": {
+                "num": 3,
+                "location": "Vivec, Telvanni Apothecary"
+            }
+        },
+        {
+            "Llarara Omayn": {
+                "num": 5,
+                "location": "Balmora, Temple"
+            }
+        },
+        {
+            "Pierlette Rostorard": {
+                "num": 5,
+                "location": "Sadrith Mora, Pierlette Rostorard: Apothecary"
+            }
+        },
+        {
+            "Salen Ravel": {
+                "num": 5,
+                "location": "Maar Gan, Shrine"
+            }
+        },
+        {
+            "Tivam Sadri": {
+                "num": 10,
+                "location": "Holamayan Monastery"
+            }
+        }
+    ],
+    "Small_Kwama_Egg": [
+        {
+            "Ajira": {
+                "num": 5,
+                "location": "Balmora, Guild of Mages"
+            }
+        },
+        {
+            "Cienne Sintieve": {
+                "num": 10,
+                "location": "Ald'ruhn, Cienne Sintieve: Alchemist"
+            }
+        },
+        {
+            "Felara Andrethi": {
+                "num": 10,
+                "location": "Tel Aruhn, Tower Living Quarters"
+            }
+        },
+        {
+            "J'Rasha": {
+                "num": 5,
+                "location": "Vivec, Foreign Quarter, J'Rasha: Healer"
+            }
+        },
+        {
+            "Threvul Serethi": {
+                "num": 10,
+                "location": "Sadrith Mora, Thervul\u00a0[sic] Serethi: Healer"
+            }
+        },
+        {
+            "Tusamircil": {
+                "num": 10,
+                "location": "Wolverine Hall, Mages Guild"
+            }
+        },
+        {
+            "Ulumpha gra-Sharob": {
+                "num": 10,
+                "location": "Gnisis, Fort Darius"
+            }
+        },
+        {
+            "Vaval Selas": {
+                "num": 5,
+                "location": "Vivec, St. Olms Temple"
+            }
+        },
+        {
+            "Zanmulk Sammalamus": {
+                "num": 10,
+                "location": "Gnisis, Temple"
+            }
+        }
+    ],
+    "Guar_Hide": [
+        {
+            "Aunius Autrus": {
+                "num": 5,
+                "location": "Wolverine Hall, Imperial Shrine"
+            }
+        },
+        {
+            "Eldrilu Dalen": {
+                "num": 10,
+                "location": "Vos, Vos Chapel"
+            }
+        },
+        {
+            "Folvys Andalor": {
+                "num": 10,
+                "location": "Ald'ruhn Temple"
+            }
+        },
+        {
+            "Ygfa": {
+                "num": 4,
+                "location": "Pelagiad, Fort Pelagiad"
+            }
+        }
+    ],
+    "Bungler's_Bane": [
+        {
+            "Danoso Andrano": {
+                "num": 10,
+                "location": "Ald'ruhn, Temple"
+            }
+        },
+        {
+            "Dralval Andrano": {
+                "num": 5,
+                "location": "Balmora, Temple"
+            }
+        },
+        {
+            "Ganalyn Saram": {
+                "num": 5,
+                "location": "Vivec, Hlaalu Alchemist"
+            }
+        },
+        {
+            "Jolda": {
+                "num": 5,
+                "location": "Tel Mora, Jolda: Apothecary"
+            }
+        },
+        {
+            "Tusamircil": {
+                "num": 5,
+                "location": "Wolverine Hall, Mages Guild"
+            }
+        }
+    ],
+    "Scales": [
+        {
+            "Ajira": {
+                "num": 5,
+                "location": "Balmora, Guild of Mages"
+            }
+        },
+        {
+            "Anis Seloth": {
+                "num": 10,
+                "location": "Sadrith Mora, Anis Seloth: Alchemist"
+            }
+        },
+        {
+            "Daynali Dren": {
+                "num": 10,
+                "location": "Tel Mora, Lower Tower"
+            }
+        },
+        {
+            "Ganalyn Saram": {
+                "num": 5,
+                "location": "Vivec, Hlaalu Alchemist"
+            }
+        },
+        {
+            "Gils Drelas": {
+                "num": 10,
+                "location": "Tel Branora, Upper Tower: Therana's Chamber"
+            }
+        },
+        {
+            "Nalcarya of White Haven": {
+                "num": 10,
+                "location": "Balmora, Nalcarya of White Haven: Fine Alchemist"
+            }
+        }
+    ],
+    "Kwama_Cuttle": [
+        {
+            "Ajira": {
+                "num": 5,
+                "location": "Balmora, Guild of Mages"
+            }
+        },
+        {
+            "Anis Seloth": {
+                "num": 10,
+                "location": "Sadrith Mora, Anis Seloth: Alchemist"
+            }
+        },
+        {
+            "Cienne Sintieve": {
+                "num": 10,
+                "location": "Ald'ruhn, Cienne Sintieve: Alchemist"
+            }
+        },
+        {
+            "Dulian": {
+                "num": 10,
+                "location": "Buckmoth Legion Fort, Interior"
+            }
+        },
+        {
+            "Ganalyn Saram": {
+                "num": 5,
+                "location": "Vivec, Hlaalu Alchemist"
+            }
+        },
+        {
+            "Irna Maryon": {
+                "num": 5,
+                "location": "Tel Aruhn, Tower Entry"
+            }
+        },
+        {
+            "Nalcarya of White Haven": {
+                "num": 10,
+                "location": "Balmora, Nalcarya of White Haven: Fine Alchemist"
+            }
+        },
+        {
+            "Tusamircil": {
+                "num": 10,
+                "location": "Wolverine Hall, Mages Guild"
+            }
+        }
+    ],
+    "Scathecraw": [
+        {
+            "Andil": {
+                "num": 10,
+                "location": "Tel Vos, Services Tower"
+            }
+        },
+        {
+            "Cocistian Quaspus": {
+                "num": 10,
+                "location": "Buckmoth Legion Fort"
+            }
+        },
+        {
+            "Dralval Andrano": {
+                "num": 5,
+                "location": "Balmora, Temple"
+            }
+        },
+        {
+            "Galuro Belan": {
+                "num": 5,
+                "location": "Vivec, Telvanni Apothecary"
+            }
+        },
+        {
+            "Guls Llervu": {
+                "num": 5,
+                "location": "Ald'ruhn, Guls Llervu's House"
+            }
+        },
+        {
+            "Irna Maryon": {
+                "num": 10,
+                "location": "Tel Aruhn, Tower Entry"
+            }
+        },
+        {
+            "Pierlette Rostorard": {
+                "num": 10,
+                "location": "Sadrith Mora, Pierlette Rostorard: Apothecary"
+            }
+        }
+    ],
+    "Scrib_Jelly": [
+        {
+            "Arnand Liric": {
+                "num": 10,
+                "location": "Buckmoth Legion Fort, Interior"
+            }
+        },
+        {
+            "Eldrilu Dalen": {
+                "num": 5,
+                "location": "Vos, Vos Chapel"
+            }
+        },
+        {
+            "Folvys Andalor": {
+                "num": 10,
+                "location": "Ald'ruhn Temple"
+            }
+        },
+        {
+            "Llathyno Hlaalu": {
+                "num": 5,
+                "location": "Balmora, Temple"
+            }
+        },
+        {
+            "Relms Gilvilo": {
+                "num": 5,
+                "location": "Vivec, Redoran Temple Shrine"
+            }
+        },
+        {
+            "Threvul Serethi": {
+                "num": 5,
+                "location": "Sadrith Mora, Thervul\u00a0[sic] Serethi: Healer"
+            }
+        },
+        {
+            "Vaval Selas": {
+                "num": 5,
+                "location": "Vivec, St. Olms Temple"
+            }
+        }
+    ],
+    "Red_Lichen": [
+        {
+            "Aurane Frernis": {
+                "num": 5,
+                "location": "Vivec, Foreign Quarter, Aurane Frernis: Apothecary"
+            }
+        },
+        {
+            "Dralval Andrano": {
+                "num": 5,
+                "location": "Balmora, Temple"
+            }
+        },
+        {
+            "Irna Maryon": {
+                "num": 3,
+                "location": "Tel Aruhn, Tower Entry"
+            }
+        },
+        {
+            "Lloros Sarano": {
+                "num": 5,
+                "location": "Ald'ruhn, Temple"
+            }
+        },
+        {
+            "Pierlette Rostorard": {
+                "num": 5,
+                "location": "Sadrith Mora, Pierlette Rostorard: Apothecary"
+            }
+        }
+    ],
+    "Pearl": [
+        {
+            "Anis Seloth": {
+                "num": 4,
+                "location": "Sadrith Mora, Anis Seloth: Alchemist"
+            }
+        },
+        {
+            "Craetia Jullalian": {
+                "num": 2,
+                "location": "Vivec Foreign Quarter, Guild of Mages"
+            }
+        },
+        {
+            "Danoso Andrano": {
+                "num": 3,
+                "location": "Ald'ruhn, Temple"
+            }
+        },
+        {
+            "Garas Seloth": {
+                "num": 2,
+                "location": "Vivec, Telvanni Alchemist"
+            }
+        },
+        {
+            "Gils Drelas": {
+                "num": 3,
+                "location": "Tel Branora, Upper Tower: Therana's Chamber"
+            }
+        },
+        {
+            "Jolda": {
+                "num": 2,
+                "location": "Tel Mora, Jolda: Apothecary"
+            }
+        },
+        {
+            "Nalcarya of White Haven": {
+                "num": 3,
+                "location": "Balmora, Nalcarya of White Haven: Fine Alchemist"
+            }
+        },
+        {
+            "Peragon": {
+                "num": 2,
+                "location": "Moonmoth Legion Fort, Interior"
+            }
+        }
+    ],
+    "Muck": [
+        {
+            "Andilu Drothan": {
+                "num": 5,
+                "location": "Vivec Foreign Quarter, Andilu Drothan: Alchemist"
+            }
+        },
+        {
+            "Anis Seloth": {
+                "num": 10,
+                "location": "Sadrith Mora, Anis Seloth: Alchemist"
+            }
+        },
+        {
+            "Brarayni Sarys": {
+                "num": 10,
+                "location": "Tel Aruhn, Tower Entry"
+            }
+        },
+        {
+            "Dulian": {
+                "num": 5,
+                "location": "Buckmoth Legion Fort, Interior"
+            }
+        },
+        {
+            "Llathyno Hlaalu": {
+                "num": 5,
+                "location": "Balmora, Temple"
+            }
+        },
+        {
+            "Nalcarya of White Haven": {
+                "num": 10,
+                "location": "Balmora, Nalcarya of White Haven: Fine Alchemist"
+            }
+        },
+        {
+            "Tivam Sadri": {
+                "num": 10,
+                "location": "Holamayan Monastery"
+            }
+        }
+    ],
+    "Green_Lichen": [
+        {
+            "Aurane Frernis": {
+                "num": 5,
+                "location": "Vivec, Foreign Quarter, Aurane Frernis: Apothecary"
+            }
+        },
+        {
+            "Dralval Andrano": {
+                "num": 5,
+                "location": "Balmora, Temple"
+            }
+        },
+        {
+            "Irna Maryon": {
+                "num": 3,
+                "location": "Tel Aruhn, Tower Entry"
+            }
+        },
+        {
+            "Scelian Plebo": {
+                "num": 5,
+                "location": "Wolverine Hall, Imperial Shrine"
+            }
+        },
+        {
+            "Telis Salvani": {
+                "num": 5,
+                "location": "Balmora, Temple"
+            }
+        }
+    ],
+    "Emerald": [
+        {
+            "Cocistian Quaspus": {
+                "num": 2,
+                "location": "Buckmoth Legion Fort"
+            }
+        },
+        {
+            "Craetia Jullalian": {
+                "num": 2,
+                "location": "Vivec Foreign Quarter, Guild of Mages"
+            }
+        },
+        {
+            "Folvys Andalor": {
+                "num": 3,
+                "location": "Ald'ruhn Temple"
+            }
+        },
+        {
+            "Irna Maryon": {
+                "num": 2,
+                "location": "Tel Aruhn, Tower Entry"
+            }
+        },
+        {
+            "Scelian Plebo": {
+                "num": 2,
+                "location": "Wolverine Hall, Imperial Shrine"
+            }
+        }
+    ],
+    "Gravedust": [
+        {
+            "Arnand Liric": {
+                "num": 10,
+                "location": "Buckmoth Legion Fort, Interior"
+            }
+        },
+        {
+            "Aunius Autrus": {
+                "num": 5,
+                "location": "Wolverine Hall, Imperial Shrine"
+            }
+        },
+        {
+            "Llathyno Hlaalu": {
+                "num": 5,
+                "location": "Balmora, Temple"
+            }
+        },
+        {
+            "Lloros Sarano": {
+                "num": 10,
+                "location": "Ald'ruhn, Temple"
+            }
+        },
+        {
+            "Milar Maryon": {
+                "num": 10,
+                "location": "Tel Vos, Services Tower"
+            }
+        },
+        {
+            "Salen Ravel": {
+                "num": 12,
+                "location": "Maar Gan, Shrine"
+            }
+        },
+        {
+            "Tivam Sadri": {
+                "num": 10,
+                "location": "Holamayan Monastery"
+            }
+        },
+        {
+            "Vaval Selas": {
+                "num": 5,
+                "location": "Vivec, St. Olms Temple"
+            }
+        }
+    ],
+    "Dreugh_Wax": [
+        {
+            "Danoso Andrano": {
+                "num": 5,
+                "location": "Ald'ruhn, Temple"
+            }
+        },
+        {
+            "Jolda": {
+                "num": 5,
+                "location": "Tel Mora, Jolda: Apothecary"
+            }
+        },
+        {
+            "Mehra Drora": {
+                "num": 5,
+                "location": "Gnisis, Temple"
+            }
+        },
+        {
+            "Pierlette Rostorard": {
+                "num": 5,
+                "location": "Sadrith Mora, Pierlette Rostorard: Apothecary"
+            }
+        },
+        {
+            "Relms Gilvilo": {
+                "num": 5,
+                "location": "Vivec, Redoran Temple Shrine"
+            }
+        },
+        {
+            "Salen Ravel": {
+                "num": 5,
+                "location": "Maar Gan, Shrine"
+            }
+        },
+        {
+            "Somutis Vunnis": {
+                "num": 5,
+                "location": "Moonmoth Legion Fort, Interior"
+            }
+        }
+    ],
+    "Nirthfly_Stalks": [
+        {
+            "Galsa AndranoTR": {
+                "num": 5,
+                "location": "Mournhold Temple: Infirmary"
+            }
+        }
+    ],
+    "Gold_Kanet": [
+        {
+            "Andil": {
+                "num": 10,
+                "location": "Tel Vos, Services Tower"
+            }
+        },
+        {
+            "Andilu Drothan": {
+                "num": 5,
+                "location": "Vivec Foreign Quarter, Andilu Drothan: Alchemist"
+            }
+        },
+        {
+            "Daynali Dren": {
+                "num": 10,
+                "location": "Tel Mora, Lower Tower"
+            }
+        },
+        {
+            "Gils Drelas": {
+                "num": 10,
+                "location": "Tel Branora, Upper Tower: Therana's Chamber"
+            }
+        },
+        {
+            "Peragon": {
+                "num": 5,
+                "location": "Moonmoth Legion Fort, Interior"
+            }
+        }
+    ],
+    "Bittergreen_Petals": [
+        {
+            "Bildren Areleth": {
+                "num": 10,
+                "location": "Tel Aruhn, Bildren Areleth: Apothecary"
+            }
+        },
+        {
+            "Cocistian Quaspus": {
+                "num": 10,
+                "location": "Buckmoth Legion Fort"
+            }
+        },
+        {
+            "Scelian Plebo": {
+                "num": 10,
+                "location": "Wolverine Hall, Imperial Shrine"
+            }
+        },
+        {
+            "Telis Salvani": {
+                "num": 5,
+                "location": "Balmora, Temple"
+            }
+        },
+        {
+            "Threvul Serethi": {
+                "num": 10,
+                "location": "Sadrith Mora, Thervul\u00a0[sic] Serethi: Healer"
+            }
+        },
+        {
+            "Vaval Selas": {
+                "num": 5,
+                "location": "Vivec, St. Olms Temple"
+            }
+        },
+        {
+            "Ygfa": {
+                "num": 5,
+                "location": "Pelagiad, Fort Pelagiad"
+            }
+        },
+        {
+            "Zanmulk Sammalamus": {
+                "num": 10,
+                "location": "Gnisis, Temple"
+            }
+        }
+    ],
+    "Alit_Hide": [
+        {
+            "Anis Seloth": {
+                "num": 5,
+                "location": "Sadrith Mora, Anis Seloth: Alchemist"
+            }
+        },
+        {
+            "Craetia Jullalian": {
+                "num": 5,
+                "location": "Vivec Foreign Quarter, Guild of Mages"
+            }
+        },
+        {
+            "Daynali Dren": {
+                "num": 5,
+                "location": "Tel Mora, Lower Tower"
+            }
+        },
+        {
+            "Ernand Thierry": {
+                "num": 5,
+                "location": "Caldera, Guild of Mages"
+            }
+        },
+        {
+            "Nalcarya of White Haven": {
+                "num": 10,
+                "location": "Balmora, Nalcarya of White Haven: Fine Alchemist"
+            }
+        },
+        {
+            "Sedris Omalen": {
+                "num": 10,
+                "location": "Maar Gan, Outpost"
+            }
+        }
+    ],
+    "Daedra's_Heart": [
+        {
+            "Anis Seloth": {
+                "num": 2,
+                "location": "Sadrith Mora, Anis Seloth: Alchemist"
+            }
+        },
+        {
+            "Craetia Jullalian": {
+                "num": 1,
+                "location": "Vivec Foreign Quarter, Guild of Mages"
+            }
+        },
+        {
+            "Gils Drelas": {
+                "num": 2,
+                "location": "Tel Branora, Upper Tower: Therana's Chamber"
+            }
+        },
+        {
+            "Nalcarya of White Haven": {
+                "num": 1,
+                "location": "Balmora, Nalcarya of White Haven: Fine Alchemist"
+            }
+        }
+    ],
+    "Coda_Flower": [
+        {
+            "Anis Seloth": {
+                "num": 10,
+                "location": "Sadrith Mora, Anis Seloth: Alchemist"
+            }
+        },
+        {
+            "Aurane Frernis": {
+                "num": 5,
+                "location": "Vivec, Foreign Quarter, Aurane Frernis: Apothecary"
+            }
+        },
+        {
+            "Brarayni Sarys": {
+                "num": 5,
+                "location": "Tel Aruhn, Tower Entry"
+            }
+        },
+        {
+            "Cienne Sintieve": {
+                "num": 10,
+                "location": "Ald'ruhn, Cienne Sintieve: Alchemist"
+            }
+        },
+        {
+            "Danoso Andrano": {
+                "num": 10,
+                "location": "Ald'ruhn, Temple"
+            }
+        },
+        {
+            "Ernand Thierry": {
+                "num": 5,
+                "location": "Caldera, Guild of Mages"
+            }
+        },
+        {
+            "Peragon": {
+                "num": 5,
+                "location": "Moonmoth Legion Fort, Interior"
+            }
+        }
+    ],
+    "Willow_Anther": [
+        {
+            "Ajira": {
+                "num": 5,
+                "location": "Balmora, Guild of Mages"
+            }
+        },
+        {
+            "Anis Seloth": {
+                "num": 10,
+                "location": "Sadrith Mora, Anis Seloth: Alchemist"
+            }
+        },
+        {
+            "Daynali Dren": {
+                "num": 10,
+                "location": "Tel Mora, Lower Tower"
+            }
+        },
+        {
+            "Dulian": {
+                "num": 5,
+                "location": "Buckmoth Legion Fort, Interior"
+            }
+        },
+        {
+            "Ganalyn Saram": {
+                "num": 5,
+                "location": "Vivec, Hlaalu Alchemist"
+            }
+        },
+        {
+            "Gils Drelas": {
+                "num": 10,
+                "location": "Tel Branora, Upper Tower: Therana's Chamber"
+            }
+        },
+        {
+            "Llathyno Hlaalu": {
+                "num": 5,
+                "location": "Balmora, Temple"
+            }
+        }
+    ],
+    "Scrib_Jerky": [
+        {
+            "Arrille": {
+                "num": 5,
+                "location": "Seyda Neen, Arrille's Tradehouse"
+            }
+        },
+        {
+            "Aunius Autrus": {
+                "num": 10,
+                "location": "Wolverine Hall, Imperial Shrine"
+            }
+        },
+        {
+            "Dulian": {
+                "num": 10,
+                "location": "Buckmoth Legion Fort, Interior"
+            }
+        },
+        {
+            "Eldrilu Dalen": {
+                "num": 5,
+                "location": "Vos, Vos Chapel"
+            }
+        },
+        {
+            "Folvys Andalor": {
+                "num": 10,
+                "location": "Ald'ruhn Temple"
+            }
+        },
+        {
+            "Galsa AndranoTR": {
+                "num": 5,
+                "location": "Mournhold Temple: Infirmary"
+            }
+        },
+        {
+            "Llarara Omayn": {
+                "num": 5,
+                "location": "Balmora, Temple"
+            }
+        },
+        {
+            "Tivam Sadri": {
+                "num": 10,
+                "location": "Holamayan Monastery"
+            }
+        }
+    ],
+    "Sload_Soap": [
+        {
+            "Andilu Drothan": {
+                "num": 5,
+                "location": "Vivec Foreign Quarter, Andilu Drothan: Alchemist"
+            }
+        },
+        {
+            "Anis Seloth": {
+                "num": 10,
+                "location": "Sadrith Mora, Anis Seloth: Alchemist"
+            }
+        },
+        {
+            "Brarayni Sarys": {
+                "num": 5,
+                "location": "Tel Aruhn, Tower Entry"
+            }
+        },
+        {
+            "Nalcarya of White Haven": {
+                "num": 10,
+                "location": "Balmora, Nalcarya of White Haven: Fine Alchemist"
+            }
+        },
+        {
+            "Peragon": {
+                "num": 5,
+                "location": "Moonmoth Legion Fort, Interior"
+            }
+        }
+    ],
+    "Trama_Root": [
+        {
+            "Andilu Drothan": {
+                "num": 5,
+                "location": "Vivec Foreign Quarter, Andilu Drothan: Alchemist"
+            }
+        },
+        {
+            "Anis Seloth": {
+                "num": 10,
+                "location": "Sadrith Mora, Anis Seloth: Alchemist"
+            }
+        },
+        {
+            "Daynali Dren": {
+                "num": 10,
+                "location": "Tel Mora, Lower Tower"
+            }
+        },
+        {
+            "Dulian": {
+                "num": 5,
+                "location": "Buckmoth Legion Fort, Interior"
+            }
+        },
+        {
+            "Gils Drelas": {
+                "num": 5,
+                "location": "Tel Branora, Upper Tower: Therana's Chamber"
+            }
+        },
+        {
+            "Llathyno Hlaalu": {
+                "num": 5,
+                "location": "Balmora, Temple"
+            }
+        },
+        {
+            "Nalcarya of White Haven": {
+                "num": 10,
+                "location": "Balmora, Nalcarya of White Haven: Fine Alchemist"
+            }
+        },
+        {
+            "Tusamircil": {
+                "num": 10,
+                "location": "Wolverine Hall, Mages Guild"
+            }
+        }
+    ],
+    "Scamp_Skin": [
+        {
+            "Arnand Liric": {
+                "num": 5,
+                "location": "Buckmoth Legion Fort, Interior"
+            }
+        },
+        {
+            "Aunius Autrus": {
+                "num": 5,
+                "location": "Wolverine Hall, Imperial Shrine"
+            }
+        },
+        {
+            "Felara Andrethi": {
+                "num": 5,
+                "location": "Tel Aruhn, Tower Living Quarters"
+            }
+        },
+        {
+            "Folvys Andalor": {
+                "num": 10,
+                "location": "Ald'ruhn Temple"
+            }
+        },
+        {
+            "J'Rasha": {
+                "num": 3,
+                "location": "Vivec, Foreign Quarter, J'Rasha: Healer"
+            }
+        }
+    ],
+    "Kresh_Fiber": [
+        {
+            "Andil": {
+                "num": 5,
+                "location": "Tel Vos, Services Tower"
+            }
+        },
+        {
+            "Bildren Areleth": {
+                "num": 10,
+                "location": "Tel Aruhn, Bildren Areleth: Apothecary"
+            }
+        },
+        {
+            "Cocistian Quaspus": {
+                "num": 10,
+                "location": "Buckmoth Legion Fort"
+            }
+        },
+        {
+            "Galuro Belan": {
+                "num": 5,
+                "location": "Vivec, Telvanni Apothecary"
+            }
+        },
+        {
+            "Llathyno Hlaalu": {
+                "num": 5,
+                "location": "Balmora, Temple"
+            }
+        },
+        {
+            "Pierlette Rostorard": {
+                "num": 10,
+                "location": "Sadrith Mora, Pierlette Rostorard: Apothecary"
+            }
+        },
+        {
+            "Somutis Vunnis": {
+                "num": 5,
+                "location": "Moonmoth Legion Fort, Interior"
+            }
+        }
+    ],
+    "Wickwheat": [
+        {
+            "Anis Seloth": {
+                "num": 10,
+                "location": "Sadrith Mora, Anis Seloth: Alchemist"
+            }
+        },
+        {
+            "Chaplain Ogrul": {
+                "num": 10,
+                "location": "Gnisis, Fort Darius"
+            }
+        },
+        {
+            "Danoso Andrano": {
+                "num": 10,
+                "location": "Ald'ruhn, Temple"
+            }
+        },
+        {
+            "Dralval Andrano": {
+                "num": 5,
+                "location": "Balmora, Temple"
+            }
+        },
+        {
+            "Garas Seloth": {
+                "num": 5,
+                "location": "Vivec, Telvanni Alchemist"
+            }
+        },
+        {
+            "Irna Maryon": {
+                "num": 10,
+                "location": "Tel Aruhn, Tower Entry"
+            }
+        },
+        {
+            "Llarara Omayn": {
+                "num": 5,
+                "location": "Balmora, Temple"
+            }
+        },
+        {
+            "Milar Maryon": {
+                "num": 10,
+                "location": "Tel Vos, Services Tower"
+            }
+        },
+        {
+            "Threvul Serethi": {
+                "num": 10,
+                "location": "Sadrith Mora, Thervul\u00a0[sic] Serethi: Healer"
+            }
+        }
+    ],
+    "Spore_Pod": [
+        {
+            "Brarayni Sarys": {
+                "num": 5,
+                "location": "Tel Aruhn, Tower Entry"
+            }
+        },
+        {
+            "Cienne Sintieve": {
+                "num": 10,
+                "location": "Ald'ruhn, Cienne Sintieve: Alchemist"
+            }
+        },
+        {
+            "Danoso Andrano": {
+                "num": 10,
+                "location": "Ald'ruhn, Temple"
+            }
+        },
+        {
+            "Ernand Thierry": {
+                "num": 5,
+                "location": "Caldera, Guild of Mages"
+            }
+        },
+        {
+            "Ganalyn Saram": {
+                "num": 5,
+                "location": "Vivec, Hlaalu Alchemist"
+            }
+        },
+        {
+            "Peragon": {
+                "num": 5,
+                "location": "Moonmoth Legion Fort, Interior"
+            }
+        },
+        {
+            "Tusamircil": {
+                "num": 5,
+                "location": "Wolverine Hall, Mages Guild"
+            }
+        }
+    ],
+    "Frost_Salts": [
+        {
+            "Anis Seloth": {
+                "num": 5,
+                "location": "Sadrith Mora, Anis Seloth: Alchemist"
+            }
+        },
+        {
+            "Cienne Sintieve": {
+                "num": 3,
+                "location": "Ald'ruhn, Cienne Sintieve: Alchemist"
+            }
+        },
+        {
+            "Craetia Jullalian": {
+                "num": 5,
+                "location": "Vivec Foreign Quarter, Guild of Mages"
+            }
+        },
+        {
+            "Daynali Dren": {
+                "num": 5,
+                "location": "Tel Mora, Lower Tower"
+            }
+        },
+        {
+            "Gils Drelas": {
+                "num": 4,
+                "location": "Tel Branora, Upper Tower: Therana's Chamber"
+            }
+        },
+        {
+            "Nalcarya of White Haven": {
+                "num": 5,
+                "location": "Balmora, Nalcarya of White Haven: Fine Alchemist"
+            }
+        },
+        {
+            "Ulumpha gra-Sharob": {
+                "num": 5,
+                "location": "Gnisis, Fort Darius"
+            }
+        }
+    ],
+    "Stoneflower_Petals": [
+        {
+            "Andil": {
+                "num": 10,
+                "location": "Tel Vos, Services Tower"
+            }
+        },
+        {
+            "Bildren Areleth": {
+                "num": 10,
+                "location": "Tel Aruhn, Bildren Areleth: Apothecary"
+            }
+        },
+        {
+            "Cocistian Quaspus": {
+                "num": 5,
+                "location": "Buckmoth Legion Fort"
+            }
+        },
+        {
+            "Galuro Belan": {
+                "num": 5,
+                "location": "Vivec, Telvanni Apothecary"
+            }
+        },
+        {
+            "Llathyno Hlaalu": {
+                "num": 5,
+                "location": "Balmora, Temple"
+            }
+        },
+        {
+            "Mehra Drora": {
+                "num": 10,
+                "location": "Gnisis, Temple"
+            }
+        },
+        {
+            "Pierlette Rostorard": {
+                "num": 10,
+                "location": "Sadrith Mora, Pierlette Rostorard: Apothecary"
+            }
+        }
+    ],
+    "Diamond": [
+        {
+            "Anarenen": {
+                "num": 2,
+                "location": "Ald'ruhn, Guild of Mages"
+            }
+        },
+        {
+            "Anis Seloth": {
+                "num": 4,
+                "location": "Sadrith Mora, Anis Seloth: Alchemist"
+            }
+        },
+        {
+            "Brarayni Sarys": {
+                "num": 2,
+                "location": "Tel Aruhn, Tower Entry"
+            }
+        },
+        {
+            "Craetia Jullalian": {
+                "num": 2,
+                "location": "Vivec Foreign Quarter, Guild of Mages"
+            }
+        },
+        {
+            "Daynali Dren": {
+                "num": 3,
+                "location": "Tel Mora, Lower Tower"
+            }
+        },
+        {
+            "Nalcarya of White Haven": {
+                "num": 1,
+                "location": "Balmora, Nalcarya of White Haven: Fine Alchemist"
+            }
+        }
+    ],
+    "Crab_Meat": [
+        {
+            "Ajira": {
+                "num": 5,
+                "location": "Balmora, Guild of Mages"
+            }
+        },
+        {
+            "Anarenen": {
+                "num": 10,
+                "location": "Ald'ruhn, Guild of Mages"
+            }
+        },
+        {
+            "Chaplain Ogrul": {
+                "num": 10,
+                "location": "Gnisis, Fort Darius"
+            }
+        },
+        {
+            "Craetia Jullalian": {
+                "num": 5,
+                "location": "Vivec Foreign Quarter, Guild of Mages"
+            }
+        },
+        {
+            "Daynali Dren": {
+                "num": 10,
+                "location": "Tel Mora, Lower Tower"
+            }
+        },
+        {
+            "Milar Maryon": {
+                "num": 10,
+                "location": "Tel Vos, Services Tower"
+            }
+        },
+        {
+            "Tusamircil": {
+                "num": 10,
+                "location": "Wolverine Hall, Mages Guild"
+            }
+        }
+    ]
+}
