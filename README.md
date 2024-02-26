@@ -6,6 +6,8 @@ I'm uploading this code for posterity. This information is bound to exist elsewh
 
 Included is the source for two applications. The first is the command-line scripts using python. The second is a web-app designed in react by someone who has a total of 4 hours experience in JS and has a few missing lobes in his brain.
 
+Finally, if you want to use (or just see) the web-app, I'm hosting it [here](https://potions.whaleback-golf.com) for the time being.
+
 ## Data
 
 Regardless of how you want to use this, you will need the data. In the first upload of this, I've included the data files, but whether I need to remove them for whatever reason later we'll see.
